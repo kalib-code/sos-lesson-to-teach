@@ -1,0 +1,55 @@
+---
+sidebar_position: 1
+---
+
+# WHAT IS SIN
+
+The Bible states that unless we repent, we will all likewise perish (Luke 13:3). However, people cannot repent unless they recognize the presence of sin within themselves.
+
+SIN IS BREAKING GOD'S LAW
+
+1 John 3:4 - "Everyone who sins breaks the law; in fact, sin is lawlessness."
+
+1. Sin involves committing acts that are contrary to God's commands, such as murder, rape, stealing, lying, and coveting (referring to the Ten Commandments). This is known as a sin of commission.
+
+2. God is the Lawgiver, and He alone establishes the standard by which humanity is measured. Committing a single sinful act makes one guilty of breaking all the commandments because it is not just against individual items of the Law, but against the Lawgiver Himself.
+
+James 2:10 - "For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it."
+
+Psalm 51:4 - "Against you, you only, have I sinned and done what is evil in your sight, so that you are proved right when you speak and justified when you judge."
+
+SIN IS NOT DOING THE GOOD WE SHOULD DO
+
+James 4:17 - "Anyone, then, who knows the good he ought to do and doesn't do it, sins."
+
+Sin is not only about committing wrong acts but also failing to do the good we are called to do. It involves acts of omission. For example, it is not just about avoiding lying but also about actively spreading God's truth. It is not just about refraining from stealing but also about giving to those in need.
+
+SIN IS FALLING SHORT OF GOD'S GLORY
+
+By human standards of goodness, we may perceive ourselves as somewhat good. However, by God's standards, no one is good enough.
+
+Romans 3:23 - "for all have sinned and fall short of the glory of God."
+
+Isaiah 64:6 - "All of us have become like one who is unclean, and all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind, our sins sweep us away."
+
+SIN IS LIVING FOR SELF RATHER THAN GOD
+
+Sin involves going our own way, having wrong purposes, and living under the wrong master—ourselves.
+
+Isaiah 53:6 - "We all, like sheep, have gone astray, each of us has turned to his own way; and the LORD has laid on him the iniquity of us all."
+
+SIN IS NOT LOVING GOD WITH OUR ALL
+
+When asked about the greatest commandment, Jesus replied in Mark 12:30-31, "Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength." Disobeying this commandment is considered the greatest sin.
+
+SIN IS REJECTING JESUS
+
+The greatest mistake one can make is rejecting Jesus, who is the only remedy for sin that God offers.
+
+Acts 4:12 - "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved."
+
+2 Thessalonians 1:8-9 - "He will punish those who do not know God and do not obey the gospel of our Lord Jesus. They will be punished with everlasting destruction and shut out from the presence of the Lord and from the majesty of his power."
+
+John 3:36 - "Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on them."
+
+CHALLENGE: Recognizing your true condition opens the door to salvation through repentance. Do not linger under condemnation. Repent and accept God's forgiveness.
