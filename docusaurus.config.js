@@ -42,15 +42,11 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -67,7 +63,7 @@ const config = {
         title: 'SOS - Lesson to Teach Manual',
         logo: {
           alt: 'SOS - Lesson to Teach Manual',
-          src: 'img/logo.svg',
+          src: 'img/sos-logo.png',
         },
         items: [
           {
@@ -95,7 +91,7 @@ const config = {
             {
               tagName: 'link',
               rel: 'icon',
-              href: '/img/docusaurus.png',
+              href: '/img/sos-logo.png',
             },
             {
               tagName: 'link',
@@ -120,7 +116,7 @@ const config = {
             {
               tagName: 'link',
               rel: 'apple-touch-icon',
-              href: '/img/docusaurus.png',
+              href: '/img/sos-logo.png',
             },
             {
               tagName: 'link',
@@ -131,7 +127,7 @@ const config = {
             {
               tagName: 'meta',
               name: 'msapplication-TileImage',
-              content: '/img/docusaurus.png',
+              content: '/img/sos-logo.png',
             },
             {
               tagName: 'meta',
