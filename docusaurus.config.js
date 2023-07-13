@@ -7,9 +7,9 @@ const title = 'SOS - Lesson to Teach Manual';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SOS - Lesson to Teach Manual',
+  title: 'LESSONS TO TEACH',
   tagline: 'Training is a must',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/sos-logo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -60,9 +60,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SOS - Lesson to Teach Manual',
+        title: 'LESSONS TO TEACH',
         logo: {
-          alt: 'SOS - Lesson to Teach Manual',
+          alt: 'LESSONS TO TEACH',
           src: 'img/sos-logo.png',
         },
         items: [
@@ -70,7 +70,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Lesson to Teach',
+            label: 'LESSONS TO TEACH',
           },
         ],
       },
