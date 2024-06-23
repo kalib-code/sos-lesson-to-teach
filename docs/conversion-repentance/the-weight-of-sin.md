@@ -1,45 +1,32 @@
 ---
 sidebar_position: 2
 ---
-# THE WEIGHT OF SIN
+# Lesson for Conversion: Repentance
 
-Because of the increasing wickedness in the last days, people often underestimate the seriousness of sin. This hinders them from repenting and seeking God's mercy and forgiveness. It is crucial for individuals to recognize the weight and gravity of sin, as evidenced by the fact that sin caused the Son of God to die on the cross. The burden of mankind's sin was laid upon Jesus.
+## THE WEIGHT OF SIN
 
-1. ALL SIN IS MORTAL
+Because of increasing wickedness in the last days, people tend to regard sin lightly. This hinders them from repenting and turning to God for His mercy and forgiveness. People should realize the seriousness and weight of sin as revealed in the fact that sin caused the Son of God to die on the cross. The burden of man’s sin was loaded upon Jesus.
 
-In the eyes of God, every kind of sin is the same. Religious classifications of sin can sometimes lead to a lack of remorse or regret. However, all sin brings death to the soul and deserves punishment.
+### 1. ALL SIN IS MORTAL
+**Every kind of sin is the same in the eyes of God.** Religion has confusing classifications of sin thereby producing licentiousness without remorse or regret. All sin brings death to the soul and is death deserving.
+- Romans 6:23 - For the wages of sin is death!
+- 1 Corinthians 6:9-10 - Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual offenders, nor thieves nor the greedy nor drunkards nor slanderers nor swindlers will inherit the kingdom of God.
 
-Romans 6:23 - "For the wages of sin is death!"
+### 2. ALL MAN IS GUILTY
+**Every kind of man is equally sinful in the eyes of God:** the rich and the poor, the freeman or prisoner, the master, and the slaves. We are all sinners! God is right and we are wrong.
+- Romans 3:10 - As it is written: "There is no one righteous, not even one.
+- Romans 3:23 - for all have sinned and fall short of the glory of God,
+- 1 John 1:8 - If we claim to be without sin, we deceive ourselves and the truth is not in us.
 
-1 Corinthians 6:9-10 - "Or do you not know that wrongdoers will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor men who have sex with men nor thieves nor the greedy nor drunkards nor slanderers nor swindlers will inherit the kingdom of God."
+### 3. ALL MUST BE PUNISHED
+**Each one is guilty and will give an account of his/her life to God**
+- Romans 2:11 God’s shows no favoritism.
+- Ezekiel 18:20 - the soul who sins is the one who will die. The son will not share the guilt of the father, nor will the father share the guilt of the son.
 
-2. ALL MEN ARE GUILTY
+### 4. ALL PUNISHMENT OF MAN’S SIN WAS POURED OUT ON JESUS
+Because every man is guilty, no one has a chance to receive help from another person. Only the sinless one can save, that sinless one is JESUS the Son of God. He tasted death for everyone. Imagine how heavy all of mankind’s sin and punishment was poured on Him!
+- Hebrews 2:9 - But we see Jesus, who was made a little lower than the angels, now crowned with glory and honor because he suffered death, so that by the grace of God he might taste death for everyone.
 
-In the eyes of God, all people, regardless of their social status or background, are equally sinful. We are all sinners, and God is righteous while we are in the wrong.
-
-Romans 3:10 - "As it is written: 'There is no one righteous, not even one.'"
-
-Romans 3:23 - "for all have sinned and fall short of the glory of God."
-
-1 John 1:8 - "If we claim to be without sin, we deceive ourselves and the truth is not in us."
-
-3. ALL MUST FACE PUNISHMENT
-
-Each individual is guilty and will be held accountable for their actions before God. There is no favoritism in God's judgment.
-
-Romans 2:11 - "For God does not show favoritism."
-
-Ezekiel 18:20 - "The one who sins is the one who will die. The child will not share the guilt of the parent, nor will the parent share the guilt of the child."
-
-4. ALL PUNISHMENT FOR MAN'S SIN WAS BORNE BY JESUS
-
-Because every person is guilty, no one can save themselves or receive help from another human being. Only the sinless one, Jesus, the Son of God, can save. He willingly bore the weight of all mankind's sin and punishment. 
-
-Hebrews 2:9 - "But we do see Jesus, who was made lower than the angels for a little while, now crowned with glory and honor because he suffered death, so that by the grace of God he might taste death for everyone."
-
-CHALLENGE:
-
-Although all sin is deserving of death, the good news is that all sin can be forgiven. Christ has already paid the punishment for our sins. He is our substitute who died in our place. You do not have to bear the punishment of sin yourself.
-
-1 John 5:10-13 - "Whoever has the Son has life; whoever does not have the Son of God does not have life. I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life."
-
+### CHALLENGE
+**Although all sin is mortal, all sin can be forgiven.** Christ has already paid for the punishment for our sin. He is our substitute. He died in our place. You need not pay for the punishment of sin yourself.
+- 1 John 5:10-12-13 - He who has the Son has life; he who does not have the Son of God does not have life. I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.

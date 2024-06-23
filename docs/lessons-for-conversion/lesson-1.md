@@ -9,44 +9,43 @@ In order to accept the "good news" of salvation, people must first realize their
 
 ## FELLOWSHIP BETWEEN GOD AND MAN IN THE BEGINNING
 
-a. GOD CREATED MAN IN HIS IMAGE - This means that man has the spirit part, which is able to communicate with God. (Genesis 1:27)
+a. GOD CREATED MAN IN HIS IMAGE - means man has the spirit part, that which as able
+to communicate with God. (Genesis 1:27)
 
-b. GOD WOULD VISIT MAN IN EDEN - Adam and Eve experienced fellowship with God in the Garden of Eden, where God would walk and commune with them. (Genesis 2:8)
+b. GOD WOULD VISIT MAN IN EDEN - `Then the man and his wife heard the sound of the
+LORD God as he was walking in the garden in the cool of the day’ (Genesis 2:8)
 
 ## FELLOWSHIP BROKEN WHEN MAN SINNED AGAINST GOD
 
-God provided for all the needs of man but also gave them a command not to eat from the tree of knowledge of good and evil. However, Adam and Eve disobeyed and sinned against God. When God visited them in the Garden, they were ashamed and tried to hide from Him. As a consequence, God drove them out of the Garden of Eden, and the fellowship between God and man was broken.
+God provided for all the needs of man. But he also gave them command not to eat of the fruit of the tree of knowledge of good and evil. (Gen 2:16) But Adam and Eve disobeyed & sinned against God. When God visited them in the Garden, they were ashamed and tried to hide themselves from God. (Gen 3:8b). Then God drove them out of the Garden of Eden. The fellowship was broken.
 
 ## THE RESULTS OF THE FIRST SIN ON THE HUMAN RACE
 
-The first sin committed by Adam and Eve had several profound effects on humanity:
+What came into the heart of Adam & Eve after they sinned?
 
-a. GUILT - Adam and Eve became aware that they had violated God and His law, leading them to hide from God.
+a. GUILT - being aware they have violated God & His law, they hid from God
 
-b. FEAR - They experienced fear because they rightly understood that God had something against them.
+b. FEAR - – because they God rightly have something against them.
 
-c. DEATH - Sin brought about death. Romans 6:23 states that the wages of sin is death. Death, as a result of sin, has two aspects:
+c. DEATH - Sin brought death! Rom.6:23. Death as a result of sin means:
+State of separation: man’s spirit became dead towards God, even if he is physically alive - `you were dead in your transgressions and sins’ .Eph 2:1 Eternal separation from God (Who is God) –` ***it is appointed for men to die once, but after this the judgment. Heb 9:27. `He will punish those who do not know God and do not obey the
+gospel of our Lord Jesus. They will be punished with everlasting destruction and shut out from the presence of the Lord and from the majesty of his power.’ 2 Th 1:8-9***
 
-- State of separation: Man's spirit became dead towards God, even though physically alive. Ephesians 2:1 describes this as being "dead in your transgressions and sins."
-
-- Eternal separation from God: Hebrews 9:27 states that it is appointed for men to die once, and after that comes judgment. Those who do not know God and do not obey the gospel of Jesus Christ will be punished with everlasting destruction and be separated from the presence of the Lord. (2 Thessalonians 1:8-9)
-
-d. CONDEMNATION - Humanity stands condemned because of sin. John 3:18 emphasizes that whoever does not believe in the name of God's Son is already condemned.
+d. CONDEMNATION - `under God’s wrath’ – already condemned. Whoever believes in him is
+not condemned, but whoever does not believe stands condemned already because he has not
+believed in the name of God's one and only Son. John 3:18
 
 ## RESULTS OF THAT FIRST SIN UPON US PERSONALLY
 
-a. WE ARE BORN WITH A SINFUL NATURE - All of us are born with a sinful nature, and we live according to its desires and thoughts. Ephesians 2:3 states that we are by nature objects of wrath.
+a. WE ARE BORN WITH A SINFUL NATURE - `All of us also lived among them at one time,
+gratifying the cravings of our sinful nature and following its desires and thoughts. Like the rest, we were by nature objects of wrath.Eph.2:3`
 
-b. WE ARE GUILTY - Due to our sinful nature, we sin and thus carry guilt, deserving punishment.
+b. WE ARE GUILTY - Because of our sinful nature, we sin, and so we are guilty and deserving punishment.
 
-c. WE ARE BOUND - We are under the control of sin. Romans 7:18-19 describes the struggle between the desire to do good and the inability to carry it out.
+c. WE ARE BOUND - under the control of sin. I know that nothing good lives in me, that is, in my sinful nature. For I have the desire to do what is good, but I cannot carry it out. For what I do is not the good I want to do; no, the evil I do not want to do-- this I keep on doing. Rom 7:18-19
 
 ## THE CONCLUSION
 
-WE ARE IN DANGER - We are in a perilous situation due to sin.
-
-WE CANNOT SAVE OURSELVES - We are incapable of saving ourselves from the consequences of sin.
-
-Therefore, we need a Savior. We need Jesus to save us.
-
-Let Jesus save you today.
+WE ARE IN DANGER – WE NEED TO BE SAVED
+WE CANNOT SAVE OURSELVES – WE NEED A SAVIOR.
+`Let Jesus save you, today`

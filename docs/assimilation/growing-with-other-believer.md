@@ -1,43 +1,41 @@
 # GROWING WITH OTHER BELIEVERS
 
-When we become children of God through faith and repentance, we enter into a journey of spiritual growth, which involves our relationship with other believers in the church.
+There are aspects of spiritual growth that a Christian experiences with other believers. When one becomes a child of God through faith and repentance, God adds him to the church.
 
 ## BASIC TRUTHS ABOUT THE CHURCH
 
-### Origin of the Church
-- Jesus is the builder - Matt. 16:18
-- He died for it and purchased it - 1 Peter 1:18-19
-- Christ is the cornerstone (Eph 2:20) and the Head (Eph 4:15)
-- Summary: The church is a divine idea, originating from God.
+### ORIGIN OF THE CHURCH
+a. Jesus is the builder - Matt. 16:18  
+b. He died for it, and bought it - 1 Peter 1:18,19  
+c. Christ is the cornerstone (Eph 2:20) and the Head (EPH 4:15)  
+   *Summary: The church is a divine idea; its origin is God!*
 
-### Meaning of the Word Church
-- The Greek word "ekklesia" means "the called out and called unto." In the New Testament, it refers to people who are called out from sin and called unto God.
-- The English word "church" is derived from a root word that means "that which belongs to God."
+### MEANING OF THE WORD CHURCH
+a. Greek word `ekklesia` - means “the called out and called unto.” In the NT it refers to people who are **called out from sin and called unto God**.  
+b. English word derived from root word w/c means `that which belongs to God`.
 
-### The Church Concept: A Body, People - Not a Place or Building
-- All who accept the message of Christ are added to the body of believers, not an organization or physical structure.
-- The church is like a body with many parts, each functioning and relating to one another.
-- Acts 2:41 - Those who accepted the message were baptized, and about three thousand were added to their number that day.
-- Acts 5:14 - More and more people believed in the Lord and were added to their number.
+### THE CHURCH CONCEPT: A BODY, PEOPLE - NOT A PLACE, NOT A BUILDING
+The verses below tell us that all who accepted the message were added to the body of believers - not to an organization nor to a building.
+
+A body with many parts, each part functional, and all parts relating to one another.
+
+- **Acts 2:41** Those who accepted his message were baptized, and about three thousand were added to their number that day.
+- **Acts 5:14** Nevertheless, more and more men and women believed in the Lord and were added to their number.
+
+The church as a body means the church is people in relationship to God and to one another.
+
+- **Eph 4:15-16** … we will in all things grow up into him who is the Head, that is, Christ. From him the whole body, joined and held together by every supporting ligament, grows, and builds itself up in love, as each part does its work.
 
 ## THE NEW TESTAMENT CHURCH MODEL
+The Biblical church life involves the gathering of the believers in two manners:
 
-The biblical church life involves believers gathering in two ways:
+1. **IN SMALL GROUPS**
+2. **AS A CONGREGATION IN CORPORATE CELEBRATION GATHERING**
+   - **Acts 2:46** Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,
+   - **Acts 5:42** Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Christ.
+   - **Acts 20:20** You know that I have not hesitated to preach anything that would be helpful to you but have taught you publicly and from house to house.
 
-1. In Small Groups
-2. As a Congregation in Corporate Celebration Gathering
-
-- Acts 2:46 - Believers continued to meet together daily, breaking bread in their homes and sharing meals with glad and sincere hearts.
-- Acts 5:42 - They taught and proclaimed the good news in the temple courts and from house to house.
-- Acts 20:20 - Public teaching and house-to-house instruction were both part of the church's life.
-
-## WELCOME TO THE BODY OF BELIEVERS
-
-Welcome to the body of believers in _________________!
-
-1. Join us for the grand opening service on _________________________.
-2. Find a Bible study group nearest to you or consider hosting one in your home.
-3. Enroll in the discipleship program to grow and learn together.
-
-Let us journey together in the pursuit of spiritual growth and building up the body of Christ.
-
+## WELCOME TO THE BODY OF BELIEVERS HERE IN
+1. See you in the grand opening Service on _____________________________
+2. Join a Bible Study group nearest to you or host one in your home.
+3. Enroll in the Discipleship Program

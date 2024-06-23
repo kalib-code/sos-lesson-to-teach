@@ -3,30 +3,56 @@ sidebar_position: 1
 ---
 # BEING SURE
 
-As a new believer, it's important to have assurance of your salvation and not be swayed by doubt or the attacks of the enemy. Here are key points to help you be sure of your faith:
+How can you as a new believer be sure you are really saved? Satan’s immediate weapon
+of attack against the new believer is doubt. It is important that you understand what God
+says so you will be assured of your experience.
+Matt 13:19 "When anyone hears the word of the kingdom, and does not understand it, the
+evil {one} comes and snatches away what has been sown in his heart. This is the one on whom
+seed was sown beside the road.
 
 ## God Cannot Lie
 - **ROM 3:4** - Let God be true, and every man a liar.
 
 ## Believe God's Testimony
-- Accept God's testimony about His Son and believe in Him.
-- **I Jn 5:9-13** - God's testimony is greater than man's testimony. Those who believe in the Son of God have the testimony of eternal life in their hearts.
+Doubting God's testimony is accusing God of lying Believe God's testimony rather than
+the devil's or people's words that can cause you to doubt.
+I Jn 5:9-13
+9 We accept man's testimony, but God's testimony is greater because it is the testimony of
+God, which he has given about his Son.
+10Anyone who believes in the Son of God has this testimony in his heart. Anyone who does
+not believe God has made him out to be a liar, because he has not believed the testimony God
+has given about his Son.
+11And this is the testimony: God has given us eternal life, and this life is in his Son.
+12He who has the Son has life; he who does not have the Son of God does not have life.
+13 I write these things to you who believe in the name of the Son of God so that you may know
+that you have eternal life.
 
 ## Three Sources of Assurance
-a. God's Word is True
-- **Titus 1:2** - God, who cannot lie, promised eternal life before the world began.
-- **Heb 6:18** - It is impossible for God to lie. Take hold of the hope offered and be greatly encouraged.
+a. God's Word is true, God does not lie 
+- Titus 1:2 In hope of eternal life, which God, which cannot lie, promised before the
+world began.
+-Heb 6:18. it is impossible for God to lie, we who have fled to take hold of the hope offered to us may be greatly encouraged.
 
-b. Christ is in Your Life Now
-- **John 3:36** - Whoever believes in the Son has eternal life.
-- **John 5:24** - Whoever hears Christ's word and believes in Him has eternal life and will not be condemned.
+b. You have Christ, He is in your life Now
 
-c. Witness of God's Spirit
-- **Rom 8:16** - The Holy Spirit testifies with our spirit that we are God's children.
+- John 3:36 Whoever believes in the Son has eternal life, but whoever rejects the Son
+will not see life, for God's wrath remains on him."
 
-## Have the Right Foundation
-- Base your faith on the facts of God's Word, not on feelings.
-- **John 20:31** - The purpose of the written Scriptures is to believe that Jesus is the Christ, the Son of God, and by believing, have life in His name.
-- **I Jn 5:13** - These things are written so that you may know you have eternal life through faith in the name of the Son of God.
+- John 5:24 "I tell you the truth, whoever hears my word and believes him who sent me
+has eternal life and will not be condemned; he has crossed over from death to life.
 
-CHALLENGE: Choose to believe God, who cannot lie, over the devil or other people. Verbalize your assurance in prayer, thanking God for the salvation you have received.
+c. The witness of God's Spirit in you
+- Rom 8:16 The Spirit himself testifies with our spirit that we are God's children.
+
+## . HAVE THE RIGHT FOUNDATION FOR YOUR FAITH, DO NOT TRUST IN FEELINGS
+
+Be established in the facts of God's Words.
+
+John 20:31 But these are written that you may believe that Jesus is the Christ, the Son of
+God, and that by believing you may have life in his name.
+
+I Jn 5:13 I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.
+
+**CHALLENGE**: Whom will you believe? The devil, other people or God who cannot lie? God
+says you are saved. That should settle it. Can you verbalize in prayer of thanksgiving the
+assurance you have with regards to your salvation?

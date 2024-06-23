@@ -4,44 +4,41 @@ title: REPENTANCE
 
 ---
 
-# REPENTANCE
+# Lesson for Conversion: Repentance
 
-To truly repent, people need to understand what repentance is and what it is not. Here are some key points to consider:
+## REPENTANCE
+People need to understand what repentance is so that they can truly repent.
 
 ### WHAT REPENTANCE IS NOT
+1. **NOT JUST CONVICTION** - feeling guilty.
+   - Repentance begins with conviction through the work of the of the Holy Spirit *"And when He has come, He will convict the world of sin, and of righteousness, and of judgment (John 16:8). But not all who 'feels guilty' but they don’t stop doing the things they were convicted of. Example - Felix in Acts 24:24 – 25.*
 
-1. NOT JUST CONVICTION: Repentance is not just feeling guilty or convicted about one's sins. While conviction is a starting point, it should lead to genuine repentance and a change in behavior.
+2. **NOT JUST SORROW FOR SIN** – being sorry for your sin.
+   - This is sorrow that comes only when caught, or when suffering a consequence of sin. But there is no hatred for the sin enough to quit it. This is called worldly sorrow.
+   - 2 Corinthians 7:10 - For godly sorrow produces repentance leading to salvation, not to be regretted; but the sorrow of the world produces death.
 
-2. NOT JUST SORROW FOR SIN: Mere sorrow or regret for one's sins, especially when caught or facing consequences, is not true repentance. Worldly sorrow does not produce genuine repentance leading to salvation.
+3. **NOT JUST REFORMATION** - trying to be a good person.
+   - Many try in their own effort to become a better person. But self-effort has a root of self-righteousness that does not acknowledge the need for God's help. Hence, the person has no real need to repent.
+   - Isaiah 64:6 - All of us have become like one who is unclean, and all our righteous acts are like filthy rags.
 
-3. NOT JUST REFORMATION: Simply trying to be a good person or reforming one's behavior is not enough. True repentance involves acknowledging the need for God's help and recognizing that our own efforts fall short.
-
-4. NOT BECOMING RELIGIOUS: Merely resorting to good religious works or rituals does not constitute true repentance. It requires a genuine change of heart and a turning away from sin.
+4. **NOT BECOMING RELIGIOUS** - resorting to good, religious works.
+   - The Pharisees were extremely religious, but Jesus demanded from them proof of true repentance.
+   - Matthew 3:7-8 But when he saw many of the Pharisees and Sadducees coming to where he was baptizing, he said to them: "You brood of vipers! Who warned you to flee from the coming wrath? Produce fruit in keeping with repentance.
 
 ### WHAT REPENTANCE IS
+1. **TOWARDS GOD**
+   a. **BEING SORRY TO GOD FOR YOUR SIN.** True repentance is sorrow towards God. 
+      - *Have mercy on me, O God, according to your unfailing love; according to your great compassion blot out my transgressions. Against you, you only, have I sinned and done what is evil in your sight, so that you are proved right when you speak and justified when you judge. (Psalms 51:1,4)*
+   b. **TURNING TO GOD.** (Zechariah 1:3) *This is what the Lord Almighty says: 'Return to me,' declares the Lord Almighty, 'and I will return to you,' says the Lord Almighty.*
 
-1. TOWARDS GOD: True repentance involves being sorry to God for one's sins and turning back to Him. It requires acknowledging and confessing our transgressions before Him.
+2. **TOWARDS SIN**
+   a. **ADMITTING SIN AS SIN.** (Psalms 32:5) *Then I acknowledged my sin to you and did not cover up my iniquity. I said, "I will confess my transgressions to the Lord" - and you forgave the guilt of my sin.*
+   b. **HATING SIN.** (Ezekiel 20:43) *there you will remember your conduct and all the actions by which you have defiled yourselves, and you will loathe yourselves for all the evil you have done.*
+   c. **QUITTING & RENOUNCING SIN.** (Proverbs 28:13) *He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy. Also, Romans 6:13.*
 
-2. TOWARDS SIN: Repentance includes admitting and acknowledging our sins as sins, not trying to justify or cover them up. It also entails hating sin and making a conscious decision to quit and renounce it.
-
-3. TOWARDS SELF: Repentance involves turning from self-centered living and instead living for God. It requires a shift from selfishness to selflessness and a surrendering of our lives to God's will.
+3. **TOWARDS SELF** - turning from self and living for God.
+   - (2 Corinthians 5:15) *And he died for all that those who live should no longer live for himself but for him who died for them and was raised again.*
 
 ### CHALLENGE
-
-God demands true repentance and offers forgiveness to those who genuinely repent. It is important to understand the seriousness of sin and the need for repentance. God is ready to forgive, but we must first repent and turn to Him.
-
-## LESSON TO HELP THE NEW BELIEVER: BEING SURE
-
-As a new believer, it is important to have assurance of your salvation. Satan often tries to attack new believers with doubt. Here are some key points to help you be sure of your salvation:
-
-1. GOD CANNOT LIE: Trust in the truthfulness of God's Word. God's promises are reliable, and He cannot lie.
-
-2. BELIEVE GOD'S TESTIMONY: Choose to believe God's testimony about His Son, Jesus Christ. Reject doubts and accusations that may cause you to doubt your salvation.
-
-3. THREE SOURCES OF ASSURANCE: Find assurance in God's Word, the presence of Christ in your life, and the witness of the Holy Spirit within you.
-
-4. HAVE THE RIGHT FOUNDATION FOR YOUR FAITH: Rely on the facts presented in God's Word rather than your feelings. Trust in the truth of Jesus as the Son of God and the assurance of eternal life through Him.
-
-## CHALLENGE:
-Whom will you believe? Choose to trust in the unfailing Word of God, who declares your salvation. Verbalize your assurance in prayer and thanksgiving for your salvation.
-
+God is ready to forgive, but first, He demands true repentance
+   - *Acts 17:30 In the past God overlooked such ignorance, but now he commands all people everywhere to repent. (2 Chronicles 7:14) If my people, who are called by my name, will humble themselves and pray and seek my face and
