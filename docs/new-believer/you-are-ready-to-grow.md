@@ -2,9 +2,7 @@
 sidebar_position: 2
 title: YOU ARE READY TO GROW
 ---
----
-title: Lesson To Help The New Believer
----
+
 
 # YOU ARE READY TO GROW
 

@@ -1,13 +1,11 @@
 ---
+title: "Belief Based on God's Word"
 slug: /
 sidebar_position: 1
 ---
 
----
-title: "Belief Based on God's Word"
----
-
 ## First Lesson for Bible Studies: To Motivate People to Study the Bible
+
 ### Belief Based on God's Word
 
 Being religious, like many Filipinos are, is not enough. A person must evaluate his religious beliefs if these are based on God's word or not. 
