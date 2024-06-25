@@ -3,7 +3,6 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const title = 'SOS - Lesson to Teach Manual';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,7 +13,6 @@ const config = {
   // Set the production url of your site here
   url: 'https://churchplanting.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
@@ -25,13 +23,11 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'tl-ph'],
   },
+
   presets: [
     [
       'classic',
@@ -40,13 +36,11 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          editUrl: 'https://github.com/destinycitychurch/sos-manual/edit/main/',
         },
         blog: {
           showReadingTime: false,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          editUrl: 'https://github.com/destinycitychurch/sos-manual/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -54,16 +48,16 @@ const config = {
       }),
     ],
   ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/sos-logo.jpg',
+      image: 'img/SUMMER_OF_SERVICE_LOGO_2024.webp',
       navbar: {
         title: 'LESSONS TO TEACH',
         logo: {
           alt: 'LESSONS TO TEACH',
-          src: 'img/sos-logo.png',
+          src: 'img/SUMMER_OF_SERVICE_LOGO_2024.webp',
         },
         items: [
           {
@@ -72,6 +66,10 @@ const config = {
             position: 'left',
             label: 'LESSONS TO TEACH',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       prism: {
@@ -79,65 +77,66 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      [
-        '@docusaurus/plugin-pwa',
-        {
-          debug: true,
-          offlineModeActivationStrategies: [
-            'always'
-          ],
-          pwaHead: [
-            {
-              tagName: 'link',
-              rel: 'icon',
-              href: '/img/sos-logo.png',
-            },
-            {
-              tagName: 'link',
-              rel: 'manifest',
-              href: '/manifest.json',
-            },
-            {
-              tagName: 'meta',
-              name: 'theme-color',
-              content: 'rgb(37, 194, 160)',
-            },
-            {
-              tagName: 'meta',
-              name: 'apple-mobile-web-app-capable',
-              content: 'yes',
-            },
-            {
-              tagName: 'meta',
-              name: 'apple-mobile-web-app-status-bar-style',
-              content: '#000',
-            },
-            {
-              tagName: 'link',
-              rel: 'apple-touch-icon',
-              href: '/img/sos-logo.png',
-            },
-            {
-              tagName: 'link',
-              rel: 'mask-icon',
-              href: '/img/docusaurus.svg',
-              color: 'rgb(37, 194, 160)',
-            },
-            {
-              tagName: 'meta',
-              name: 'msapplication-TileImage',
-              content: '/img/sos-logo.png',
-            },
-            {
-              tagName: 'meta',
-              name: 'msapplication-TileColor',
-              content: '#000',
-            },
-          ],
-        },
-      ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-pwa',
+      {
+        debug: true,
+        offlineModeActivationStrategies: ['always'],
+        pwaHead: [
+
+          {
+            tagName: 'link',
+            rel: 'icon',
+            href: 'img/SUMMER_OF_SERVICE_LOGO_2024.webp',
+          },
+          {
+            tagName: 'link',
+            rel: 'manifest',
+            href: '/manifest.json',
+          },
+          {
+            tagName: 'meta',
+            name: 'theme-color',
+            content: 'rgb(37, 194, 160)',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-capable',
+            content: 'yes',
+          },
+          {
+            tagName: 'meta',
+            name: 'apple-mobile-web-app-status-bar-style',
+            content: '#000',
+          },
+          {
+            tagName: 'link',
+            rel: 'apple-touch-icon',
+            href: '/img/sos-logo.png',
+          },
+          {
+            tagName: 'link',
+            rel: 'mask-icon',
+            href: '/img/docusaurus.svg',
+            color: 'rgb(37, 194, 160)',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileImage',
+            content: 'img/SUMMER_OF_SERVICE_LOGO_2024.webp',
+          },
+          {
+            tagName: 'meta',
+            name: 'msapplication-TileColor',
+            content: '#000',
+          },
+        ],
+      },
+      
     ],
+  ],
 };
 
 module.exports = config;
