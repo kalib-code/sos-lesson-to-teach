@@ -1,0 +1,40 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Scripture blockquotes */
+.prose blockquote {
+  border-left-width: 3px;
+  border-left-color: var(--color-stone-300);
+  background-color: var(--color-stone-50);
+  border-radius: 0 0.5rem 0.5rem 0;
+  padding: 0.75rem 1rem;
+  font-style: italic;
+  color: var(--color-stone-600);
+}
+
+.prose blockquote p {
+  margin: 0;
+}
+
+/* Challenge callout at end of lessons */
+.challenge-box {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  background-color: var(--color-emerald-50);
+  border: 1px solid var(--color-emerald-200);
+  border-radius: 0.75rem;
+}
+
+.challenge-box h3,
+.challenge-box h4 {
+  color: var(--color-emerald-800);
+  margin-top: 0;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.challenge-box p,
+.challenge-box li {
+  color: var(--color-emerald-900);
+}

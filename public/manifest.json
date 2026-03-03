@@ -1,0 +1,17 @@
+{
+  "name": "Lessons to Teach",
+  "short_name": "Lessons",
+  "description": "Biblical training materials for church planting and evangelism",
+  "theme_color": "#1e6b4e",
+  "background_color": "#fafaf9",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/en",
+  "icons": [
+    {
+      "src": "/img/sos-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
