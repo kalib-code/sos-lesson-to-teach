@@ -1,41 +1,51 @@
-# Website
+# SOS Training Manual
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Biblical training materials for church planting and evangelism. A mobile-first lesson reader built for missionaries to access on the go.
 
-### Installation
+**Live site:** [lesson.sos-missions.com](https://lesson.sos-missions.com)
 
-```
-$ yarn
-```
+## Features
 
-### Local Development
+- Mobile-first responsive design
+- Bilingual support (English + Tagalog)
+- Offline access via PWA
+- Clean, readable lesson formatting with scripture blockquotes
 
-```
-$ yarn start
-```
+## Tech Stack
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- [Next.js](https://nextjs.org/) (App Router)
+- [Tailwind CSS](https://tailwindcss.com/) v4
+- [MDX](https://mdxjs.com/) via next-mdx-remote
+- Deployed on [Vercel](https://vercel.com/)
 
-### Build
+## Getting Started
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+npm install
+npm run dev
 ```
 
-Not using SSH:
+Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Build
+
+```bash
+npm run build
+npm start
+```
+
+## Content Structure
+
+Lessons are organized under `content/` by locale:
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+content/
+  en/           # English
+  tl-ph/        # Tagalog
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Each category folder contains MDX lesson files with frontmatter for title, position, and ordering.
+
+## Deployment
+
+Push to `main` — Vercel auto-deploys.
