@@ -253,7 +253,7 @@ function processChildren(children: ReactNode): ReactNode {
       <React.Fragment key={i}>{processChildren(child)}</React.Fragment>
     ));
   }
-  if (React.isValidElement(children) && children.props.children) {
+  if (React.isValidElement(children)) {
     return children;
   }
   return children;
