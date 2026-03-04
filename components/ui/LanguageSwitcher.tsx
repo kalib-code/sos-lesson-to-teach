@@ -13,7 +13,7 @@ export default function LanguageSwitcher({ locale }: { locale: Locale }) {
   return (
     <Link
       href={newPath}
-      className="text-sm font-medium px-3 py-1.5 rounded-full border border-emerald-200 text-emerald-700 hover:bg-emerald-50 transition-colors"
+      className="text-sm font-medium px-3 py-1.5 rounded-full border border-emerald-200 dark:border-emerald-800 text-emerald-700 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950 transition-colors"
     >
       {t(locale, "switchLanguage")}
     </Link>

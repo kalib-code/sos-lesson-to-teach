@@ -32,7 +32,7 @@ export default async function CategoryPage({
     <div>
       <Link
         href={`/${locale}`}
-        className="inline-flex items-center text-sm text-stone-400 hover:text-emerald-600 mb-4 transition-colors"
+        className="inline-flex items-center text-sm text-stone-400 dark:text-stone-500 hover:text-emerald-600 dark:hover:text-emerald-400 mb-4 transition-colors"
       >
         <svg className="w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M15 19l-7-7 7-7" />
@@ -40,11 +40,11 @@ export default async function CategoryPage({
         {t(loc, "home")}
       </Link>
 
-      <h1 className="text-xl font-bold text-stone-900 leading-snug">
+      <h1 className="text-xl font-bold text-stone-900 dark:text-stone-100 leading-snug">
         {cat.label}
       </h1>
       {cat.description && (
-        <p className="text-stone-500 text-sm mt-1">{cat.description}</p>
+        <p className="text-stone-500 dark:text-stone-400 text-sm mt-1">{cat.description}</p>
       )}
 
       <div className="mt-6 space-y-2">
@@ -52,16 +52,16 @@ export default async function CategoryPage({
           <Link
             key={lesson.slug}
             href={`/${locale}/${category}/${lesson.slug}`}
-            className="flex items-center gap-4 p-4 rounded-xl border border-stone-100 bg-white hover:bg-stone-50 hover:border-stone-200 hover:shadow-sm transition-all active:scale-[0.98]"
+            className="flex items-center gap-4 p-4 rounded-xl border border-stone-100 dark:border-stone-700 bg-white dark:bg-stone-800 hover:bg-stone-50 dark:hover:bg-stone-750 hover:border-stone-200 dark:hover:border-stone-600 hover:shadow-sm transition-all active:scale-[0.98]"
           >
-            <span className="flex-shrink-0 w-8 h-8 rounded-full bg-emerald-50 text-emerald-700 text-sm font-semibold flex items-center justify-center">
+            <span className="flex-shrink-0 w-8 h-8 rounded-full bg-emerald-50 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-400 text-sm font-semibold flex items-center justify-center">
               {i + 1}
             </span>
-            <span className="flex-1 text-sm font-medium text-stone-800 leading-snug">
+            <span className="flex-1 text-sm font-medium text-stone-800 dark:text-stone-200 leading-snug">
               {lesson.title}
             </span>
             <svg
-              className="w-4 h-4 text-stone-300 flex-shrink-0"
+              className="w-4 h-4 text-stone-300 dark:text-stone-600 flex-shrink-0"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"

@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 /* Scripture blockquotes */
 .prose blockquote {
   border-left-width: 3px;
@@ -10,6 +12,12 @@
   padding: 0.75rem 1rem;
   font-style: italic;
   color: var(--color-stone-600);
+}
+
+.dark .prose blockquote {
+  border-left-color: var(--color-stone-600);
+  background-color: var(--color-stone-800);
+  color: var(--color-stone-300);
 }
 
 .prose blockquote p {
@@ -25,6 +33,11 @@
   border-radius: 0.75rem;
 }
 
+.dark .challenge-box {
+  background-color: var(--color-emerald-950);
+  border-color: var(--color-emerald-800);
+}
+
 .challenge-box h3,
 .challenge-box h4 {
   color: var(--color-emerald-800);
@@ -34,7 +47,63 @@
   letter-spacing: 0.05em;
 }
 
+.dark .challenge-box h3,
+.dark .challenge-box h4 {
+  color: var(--color-emerald-300);
+}
+
 .challenge-box p,
 .challenge-box li {
   color: var(--color-emerald-900);
+}
+
+.dark .challenge-box p,
+.dark .challenge-box li {
+  color: var(--color-emerald-200);
+}
+
+/* Font size classes */
+.font-size-sm { font-size: 0.875rem; }
+.font-size-base { font-size: 1rem; }
+.font-size-lg { font-size: 1.125rem; }
+
+/* Page transitions */
+@keyframes slide-in-right {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.25s ease-out;
+}
+
+.animate-slide-in-left {
+  animation: slide-in-left 0.25s ease-out;
+}
+
+/* Scripture popover fade-in */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.15s ease-out;
 }

@@ -15,10 +15,10 @@ export default async function HomePage({
   return (
     <div>
       <section className="pt-4 pb-6">
-        <h1 className="text-lg font-semibold text-stone-800">
+        <h1 className="text-lg font-semibold text-stone-800 dark:text-stone-200">
           {t(loc, "homeGreeting")}
         </h1>
-        <p className="text-sm text-stone-400 mt-1">
+        <p className="text-sm text-stone-400 dark:text-stone-500 mt-1">
           {t(loc, "siteDescription")}
         </p>
       </section>
