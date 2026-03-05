@@ -17,6 +17,12 @@ const uiStrings: Record<Locale, Record<string, string>> = {
     switchLanguage: "Filipino",
     lessons: "lessons",
     lesson: "lesson",
+    offlineReady: "All lessons available offline",
+    offlinePartial: "Some content may be unavailable",
+    online: "Online",
+    refreshContent: "Update content",
+    refreshing: "Updating…",
+    downloadingOffline: "Downloading lessons for offline use…",
   },
   "tl-ph": {
     siteTitle: "Mga Aral na Ituturo",
@@ -31,6 +37,12 @@ const uiStrings: Record<Locale, Record<string, string>> = {
     switchLanguage: "English",
     lessons: "mga aral",
     lesson: "aral",
+    offlineReady: "Lahat ng aral ay available offline",
+    offlinePartial: "Maaaring hindi available ang ibang nilalaman",
+    online: "Online",
+    refreshContent: "I-update ang nilalaman",
+    refreshing: "Nag-a-update…",
+    downloadingOffline: "Dina-download ang mga aral para sa offline…",
   },
 };
 
