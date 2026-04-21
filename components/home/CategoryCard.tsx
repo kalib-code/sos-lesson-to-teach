@@ -23,6 +23,16 @@ const categoryColors: Record<string, { bg: string; border: string; accent: strin
     border: "border-violet-100 dark:border-violet-900",
     accent: "text-violet-600 dark:text-violet-400",
   },
+  "lessons-for-new-believers": {
+    bg: "bg-teal-50/60 dark:bg-teal-950/30",
+    border: "border-teal-100 dark:border-teal-900",
+    accent: "text-teal-600 dark:text-teal-400",
+  },
+  "answering-questions": {
+    bg: "bg-indigo-50/60 dark:bg-indigo-950/30",
+    border: "border-indigo-100 dark:border-indigo-900",
+    accent: "text-indigo-600 dark:text-indigo-400",
+  },
 };
 
 const defaultColor = {

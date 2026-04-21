@@ -23,6 +23,10 @@ const uiStrings: Record<Locale, Record<string, string>> = {
     refreshContent: "Update content",
     refreshing: "Updating…",
     downloadingOffline: "Downloading lessons for offline use…",
+    installTitle: "Install this app",
+    installDesc: "Add it to your home screen for quick access and offline reading.",
+    installIOS: "Tap the Share icon, then \"Add to Home Screen\" to install.",
+    installButton: "Install",
   },
   "tl-ph": {
     siteTitle: "Mga Aral na Ituturo",
@@ -43,6 +47,10 @@ const uiStrings: Record<Locale, Record<string, string>> = {
     refreshContent: "I-update ang nilalaman",
     refreshing: "Nag-a-update…",
     downloadingOffline: "Dina-download ang mga aral para sa offline…",
+    installTitle: "I-install ang app na ito",
+    installDesc: "Idagdag sa home screen para sa mabilis na access at offline na pagbabasa.",
+    installIOS: "Pindutin ang Share icon, pagkatapos ay \"Add to Home Screen\" upang i-install.",
+    installButton: "I-install",
   },
 };
 
