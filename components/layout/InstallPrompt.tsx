@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import type { Locale } from "@/lib/types";
 import { t } from "@/lib/i18n";
 
@@ -10,12 +10,22 @@ type BeforeInstallPromptEvent = Event & {
 };
 
 const DISMISS_KEY = "sos-install-dismissed";
-const DISMISS_DAYS = 7;
+const DISMISS_MS = 60 * 60 * 1000; // 1 hour
+
+function wasRecentlyDismissed(): boolean {
+  if (typeof window === "undefined") return false;
+  const dismissed = localStorage.getItem(DISMISS_KEY);
+  if (!dismissed) return false;
+  const when = parseInt(dismissed, 10);
+  if (Number.isNaN(when)) return false;
+  return Date.now() - when < DISMISS_MS;
+}
 
 export default function InstallPrompt({ locale }: { locale: Locale }) {
   const [deferredPrompt, setDeferredPrompt] = useState<BeforeInstallPromptEvent | null>(null);
   const [isIOS, setIsIOS] = useState(false);
   const [visible, setVisible] = useState(false);
+  const timerRef = useRef<number | null>(null);
 
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -26,13 +36,15 @@ export default function InstallPrompt({ locale }: { locale: Locale }) {
       (window.navigator as { standalone?: boolean }).standalone === true;
     if (isStandalone) return;
 
-    // Recently dismissed?
-    const dismissed = localStorage.getItem(DISMISS_KEY);
-    if (dismissed) {
-      const when = parseInt(dismissed, 10);
-      const daysSince = (Date.now() - when) / (1000 * 60 * 60 * 24);
-      if (daysSince < DISMISS_DAYS) return;
-    }
+    if (wasRecentlyDismissed()) return;
+
+    const scheduleShow = () => {
+      if (timerRef.current !== null) window.clearTimeout(timerRef.current);
+      timerRef.current = window.setTimeout(() => {
+        if (wasRecentlyDismissed()) return;
+        setVisible(true);
+      }, 2000);
+    };
 
     // Detect iOS Safari (no beforeinstallprompt support)
     const ua = window.navigator.userAgent;
@@ -40,17 +52,18 @@ export default function InstallPrompt({ locale }: { locale: Locale }) {
     const isSafari = /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS/.test(ua);
     if (iOS && isSafari) {
       setIsIOS(true);
-      setTimeout(() => setVisible(true), 2000);
-      return;
+      scheduleShow();
     }
 
     function handleBeforeInstallPrompt(e: Event) {
       e.preventDefault();
+      if (wasRecentlyDismissed()) return;
       setDeferredPrompt(e as BeforeInstallPromptEvent);
-      setTimeout(() => setVisible(true), 2000);
+      scheduleShow();
     }
 
     function handleAppInstalled() {
+      if (timerRef.current !== null) window.clearTimeout(timerRef.current);
       setVisible(false);
       setDeferredPrompt(null);
     }
@@ -61,6 +74,7 @@ export default function InstallPrompt({ locale }: { locale: Locale }) {
     return () => {
       window.removeEventListener("beforeinstallprompt", handleBeforeInstallPrompt);
       window.removeEventListener("appinstalled", handleAppInstalled);
+      if (timerRef.current !== null) window.clearTimeout(timerRef.current);
     };
   }, []);
 
@@ -75,20 +89,22 @@ export default function InstallPrompt({ locale }: { locale: Locale }) {
   }
 
   function handleDismiss() {
+    if (timerRef.current !== null) window.clearTimeout(timerRef.current);
     setVisible(false);
     localStorage.setItem(DISMISS_KEY, Date.now().toString());
   }
 
-  if (!visible) return null;
-
   return (
     <div
-      className="fixed top-16 left-0 right-0 z-40 px-4 pointer-events-none"
+      className={`fixed bottom-14 left-0 right-0 z-40 px-4 pb-2 pointer-events-none transition-transform duration-300 ${
+        visible ? "translate-y-0" : "translate-y-[150%]"
+      }`}
       role="dialog"
       aria-label={t(locale, "installTitle")}
+      aria-hidden={!visible}
     >
       <div className="max-w-2xl mx-auto pointer-events-auto">
-        <div className="bg-emerald-50 dark:bg-emerald-950 border border-emerald-200 dark:border-emerald-800 rounded-xl shadow-lg p-4 animate-in slide-in-from-top">
+        <div className="bg-emerald-50 dark:bg-emerald-950 border border-emerald-200 dark:border-emerald-800 rounded-xl shadow-lg p-4">
           <div className="flex items-start gap-3">
             <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-emerald-600 dark:bg-emerald-500 flex items-center justify-center">
               <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>

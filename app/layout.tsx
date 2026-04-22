@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import ServiceWorkerRegistrar from "@/components/ServiceWorkerRegistrar";
+import CacheRefresher from "@/components/CacheRefresher";
 import PreferencesProvider from "@/components/providers/PreferencesProvider";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -42,6 +43,7 @@ export default function RootLayout({
         <PreferencesProvider>
           {children}
           <ServiceWorkerRegistrar />
+          <CacheRefresher />
         </PreferencesProvider>
       </body>
     </html>

@@ -156,6 +156,38 @@ self.addEventListener("message", (event) => {
       });
     });
   }
+
+  // Silent full-cache refresh — no progress/done broadcasts, failures ignored.
+  // Used for background refresh on app launch.
+  if (event.data.type === "REFRESH_SILENT") {
+    caches.open(CACHE_NAME).then(async (cache) => {
+      for (const url of PRECACHE_URLS) {
+        try {
+          const response = await fetch(url, { cache: "no-cache" });
+          if (response.ok) {
+            await cache.put(url, response);
+          }
+        } catch {
+          // Preserve existing cache entry on failure
+        }
+      }
+    });
+  }
+
+  // Silent single-URL refresh — used on client-side navigation.
+  if (event.data.type === "REFRESH_URL" && typeof event.data.url === "string") {
+    const url = event.data.url;
+    caches.open(CACHE_NAME).then(async (cache) => {
+      try {
+        const response = await fetch(url, { cache: "no-cache" });
+        if (response.ok) {
+          await cache.put(url, response);
+        }
+      } catch {
+        // Preserve existing cache entry on failure
+      }
+    });
+  }
 });
 `;
 }
