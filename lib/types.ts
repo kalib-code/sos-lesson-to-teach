@@ -1,4 +1,4 @@
-export type Locale = "en" | "tl-ph";
+export type Locale = "en" | "tl-ph" | "hil-ph";
 
 export interface Category {
   slug: string;

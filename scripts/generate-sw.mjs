@@ -16,7 +16,7 @@ const ROOT = join(fileURLToPath(import.meta.url), "../..");
 const CONTENT_DIR = join(ROOT, "content");
 const OUTPUT = join(ROOT, "public/sw.js");
 
-const LOCALES = ["en", "tl-ph"];
+const LOCALES = ["en", "tl-ph", "hil-ph"];
 
 function getUrls() {
   const urls = new Set();
